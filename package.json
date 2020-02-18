@@ -1,0 +1,34 @@
+{
+  "name": "cryptobot",
+  "version": "0.0.2",
+  "description": "Cryptocurrency Monitor and Trade Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Guo",
+  "bin": {
+    "nbt": "./index.js"
+  },
+  "dependencies": {
+    "binance-api-node": "^0.8.0",
+    "bitfinex-api-node": "^2.0.0-beta.1",
+    "bitmex-realtime-api": "^0.3.0",
+    "chalk": "^2.3.0",
+    "clear": "0.0.1",
+    "cli-progress": "^2.0.0",
+    "configstore": "^3.1.2",
+    "figlet": "^1.2.0",
+    "gdax": "^0.8.0",
+    "hoek": "^4.2.1",
+    "inquirer": "^5.2.0",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.1",
+    "node-binance-api": "^0.8.4",
+    "numeral": "^2.0.6",
+    "okex-rest": "0.0.1",
+    "ora": "^2.1.0",
+    "puretext": "^0.1.3"
+  }
+}
