@@ -24,7 +24,7 @@
     "hoek": "^4.2.1",
     "inquirer": "^5.2.0",
     "lodash": "^4.17.10",
-    "moment": "^2.22.1",
+    "moment": "^2.29.4",
     "node-binance-api": "^0.8.4",
     "numeral": "^2.0.6",
     "okex-rest": "0.0.1",
